@@ -69,3 +69,6 @@ movieSelect.addEventListener('change', e => {
 
   updateSelectedSeatsCount();
 });
+function bookedFunc(){
+	alert("Ticket booking successful!!")
+}
